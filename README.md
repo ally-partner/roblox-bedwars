@@ -1,5 +1,5 @@
 # roblox bedwars script
-Founder: MoonhookSumDev<br><br>
-UIs By CaseohCASEOH<br><br>
-Bypass By noob-script<br><br>
-Functions By blueEa1532
+Founder: MoonhookSumDev<br
+UI By CaseohCASEOH<br
+Bypass By noob-script<br
+Function By blueEa1532
