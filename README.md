@@ -1,2 +1,4 @@
 # roblox bedwars script
-CaseohCASEOH &amp; noob-scripts &amp; blueEa1532 Teamwork
+UIs By CaseohCASEOH
+Bypasses By noob-scripts
+Functions By blueEa1532
