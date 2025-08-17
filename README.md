@@ -1,5 +1,10 @@
-# roblox bedwars script
-Founder: MoonhookSumDev<br>
-UI By CaseohCASEOH<br>
-Bypass By noob-script<br>
-Function By blueEa1532
+# Roblox BedWars Script
+
+## Contributors
+
+- **Founder:** MoonhookSumDev  
+- **UI Design:** Aabbaaii
+- **Bypasser:** Wild-Wide  
+- **Functions:** blueEa1532  
+
+# [Join MoonHook Hub Server here!](https://discord.gg/sNsaGrNt39)
